@@ -1,0 +1,6 @@
+int x = 10;
+double result = x * 4.5;
+if (result > 20.0)
+{
+printf("Large value.");
+}
