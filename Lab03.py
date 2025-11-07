@@ -1,5 +1,5 @@
 import re
-import os
+# import os
 
 KEYWORDS = [
     "auto", "break", "case", "char", "const", "continue", "default",
